@@ -1,0 +1,26 @@
+0500 Asr
+0501 Text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Band$bnc
+1505 $erda
+5056 1
+
+1100 YEAR
+1500 LANGUAGE ISO 369-2
+3000 AUTHOR1
+3010 AUTHOR2
+3010 AUTHOR3...
+4000 TITLE$dSUBTITLE
+
+4070 $jYEAR$pPAGES
+
+4951 online_licence_Volltext_nicht$4ZZ
+4951 online_licence_Open_Access$4LF
+
+9999 SUPERIOR_TITLE; SUPERIOR_ISBN; SUPERIOR_IXTHEO_URL; SUPERIOR_PUBLISHERS
+
+
+
+
+
+
