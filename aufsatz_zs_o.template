@@ -1,7 +1,7 @@
-0500 Asr
+0500 Osr
 0501 Text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Band$bnc
+0502 Computermedien$bc
+0503 Online-Ressource$bcr
 1505 $erda
 5056 1
 1100 ${zeitschrift_werk_group_jahr}
@@ -16,7 +16,7 @@
 3010 ${authors8} 
 4000 ${title}$d${subtitle}
 4070 ${zeitschrift_werk_group_band}$j${zeitschrift_werk_group_jahr}$a${zeitschrift_werk_group_heft}$i${zeitschrift_werk_group_aufsatz_ID}$p${superior_pages}
-4951 ${online_links1}$3Volltext$4XX$534
-4951 ${online_links2}$3Volltext$4XX$534
-4951 ${online_links3}$3Volltext$4XX$534
+4950 ${online_links1}$3Volltext$4XX$534
+4950 ${online_links2}$3Volltext$4XX$534
+4950 ${online_links3}$3Volltext$4XX$534
 9999 ${superior_title}; ${zeitschrift_werk_group_ISSN}; ${zeitschrift_werk_group_IxTheo_Link};
