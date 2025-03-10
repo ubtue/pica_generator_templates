@@ -1,0 +1,24 @@
+0500 Osr
+0501 Text$btxt
+0502 Computermedien$bc
+0503 Online-Ressource$bcr
+1505 $erda
+5056 1
+1131 !106186019!
+1100 ${zeitschrift_werk_group_jahr}
+1500 ${language}
+3000 ${authors1}
+3010 ${authors2} 
+3010 ${authors3} 
+3010 ${authors4} 
+3010 ${authors5} 
+3010 ${authors6} 
+3010 ${authors7} 
+3010 ${authors8} 
+4000 ${title}
+4070 ${zeitschrift_werk_group_band}$j${zeitschrift_werk_group_jahr}$a${zeitschrift_werk_group_heft}$i${zeitschrift_werk_group_aufsatz_ID}$p${superior_pages}
+4950 ${online_links1}$3Volltext$4XX$534
+4950 ${online_links2}$3Volltext$4XX$534
+4950 ${online_links3}$3Volltext$4XX$534
+9998 ${reviewed_work_group_title}; ${reviewed_work_group_authors}; ${reviewed_work_group_erscheinungsjahr}; ${reviewed_work_group_ISBN}; ${reviewed_work_group_IxTheo_Link}
+9999 ${zeitschrift_werk_group_title}; ${zeitschrift_werk_group_ISSN}; ${zeitschrift_werk_group_IxTheo_Link};
