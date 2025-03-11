@@ -16,9 +16,9 @@
 3010 ${authors7} 
 3010 ${authors8} 
 4000 ${title}
-4070 $j${sammelband_werk_group_erscheinungsjahr}$p${superior_pages}
+4070 $j${sammelband_werk_group_erscheinungsjahr}$p$
 4950 ${online_links1}$3Volltext$4XX$534
 4950 ${online_links2}$3Volltext$4XX$534
 4950 ${online_links3}$3Volltext$4XX$534
-9998 ${reviewed_work_group_title}; ${reviewed_work_group_authors}; ${reviewed_work_group_erscheinungsjahr}; ${reviewed_work_group_ISBN}; ${reviewed_work_group_IxTheo_Link}
-9999 ${zeitschrift_werk_group_title}; ${sammelband_werk_group_ISBN}; ${zeitschrift_werk_group_IxTheo_Link}; ${sammelband_werk_group_Herausgeber1} ${sammelband_werk_group_Herausgeber2} ${sammelband_werk_group_Herausgeber3} ${sammelband_werk_group_Herausgeber4} ${sammelband_werk_group_Herausgeber4} ${sammelband_werk_group_Herausgeber5} ${sammelband_werk_group_Herausgeber6} ${sammelband_werk_group_Herausgeber7} ${sammelband_werk_group_Herausgeber8};
+9998 ${reviewed_work_group_authors1}; ${reviewed_work_group_authors2}; ${reviewed_work_group_authors3}; ${reviewed_work_group_authors4}; ${reviewed_work_group_authors5}; ${reviewed_work_group_authors6}; ${reviewed_work_group_authors7}; ${reviewed_work_group_authors8}; ${reviewed_work_group_ISBN}; ${reviewed_work_group_title}; ${reviewed_work_group_erscheinungsjahr}; ${reviewed_work_group_IxTheo_Link}; ${reviewed_work_group_IxTheo_Link}
+9999 ${rezension_superior_anthology_group_author1}; ${rezension_superior_anthology_group_author2}; ${rezension_superior_anthology_group_author3}; ${rezension_superior_anthology_group_author4}; ${rezension_superior_anthology_group_author5}; ${rezension_superior_anthology_group_author6}; ${rezension_superior_anthology_group_author7}; ${rezension_superior_anthology_group_author8}; ${rezension_superior_anthology_group_title}; ${rezension_superior_anthology_group_erscheinungsjahr}; ${rezension_superior_anthology_group_ISBN}; ${rezension_superior_anthology_IxTheo_Link}; ${comment}
