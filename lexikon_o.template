@@ -20,4 +20,4 @@
 4950 ${online_links1}$3Volltext$4XX$534
 4950 ${online_links2}$3Volltext$4XX$534
 4950 ${online_links3}$3Volltext$4XX$534
-9999 ${rezensiertes_werk_group_name}; ${zeitschrift_werk_group_ISSN}; ${zeitschrift_werk_group_IxTheo_Link};
+9999 ${zeitschrift_werk_group_title}; ${zeitschrift_werk_group_ISSN}; ${zeitschrift_werk_group_IxTheo_Link}; ${comment}
