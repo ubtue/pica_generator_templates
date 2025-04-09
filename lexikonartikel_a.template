@@ -5,7 +5,7 @@
 1505 $erda
 5056 1
 1140 uwlx
-1100 ${zeitschrift_werk_group_jahr}
+1100 ${zeitschrift_werk_group_year}
 1500 ${language}
 3000 ${authors1}
 3010 ${authors2} 
@@ -16,8 +16,8 @@
 3010 ${authors7} 
 3010 ${authors8} 
 4000 ${title}$d${teilaspekt}
-4070 ${zeitschrift_werk_group_band}$j${zeitschrift_werk_group_jahr}$a${zeitschrift_werk_group_heft}$i${zeitschrift_werk_group_aufsatz_ID}$p${zeitschrift_werk_group_seiten_oder_spalten}
+4070 ${zeitschrift_werk_group_band}$j${zeitschrift_werk_group_year}$p${zeitschrift_werk_group_seiten_oder_spalten}
 4951 ${online_links1}$3Volltext$4XX$534
 4951 ${online_links2}$3Volltext$4XX$534
 4951 ${online_links3}$3Volltext$4XX$534
-9999 ${zeitschrift_werk_group_title}; ${zeitschrift_werk_group_ISSN}; ${zeitschrift_werk_group_IxTheo_Link}; ${comment}
+9999 ${zeitschrift_werk_group_title}; ${zeitschrift_werk_group_ISBN}; ${zeitschrift_werk_group_IxTheo_Link}
