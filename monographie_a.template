@@ -17,7 +17,7 @@
 2000 ${ISBN}
 4030 ${place_of_publication}
 4030 ${publisher}
-4180 ${reihe}${reihennummer}
+4170 ${reihe}${reihennummer}
 4951 ${online_links1}
 4951 ${online_links2}
 4951 ${online_links3}
