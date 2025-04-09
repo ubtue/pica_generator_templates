@@ -1,21 +1,23 @@
-${authors1}
-${authors2}
-${authors3}
-${authors4}
-${authors5}
-${authors6}
-${authors7}
-${authors8}
-${publication_year}
-${output}
-${title}
-${untertitel}
-${language}
-${ISBN}
-${place_of_publication}
-${publisher}
-${reihe}
-${reihennummer}
-${online_links1}
-${online_links2}
-${online_links3}
+0500 Aar
+0501 Text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Band$bnc
+3000 ${authors1}
+3010 ${authors2}
+3010 ${authors3}
+3010 ${authors4}
+3010 ${authors5}
+3010 ${authors6}
+3010 ${authors7}
+3010 ${authors8}
+1100 ${publication_year}
+4020 ${output}
+4000 ${title}${untertitel}
+1500 ${language}
+2000 ${ISBN}
+4030 ${place_of_publication}
+4030 ${publisher}
+4180 ${reihe}${reihennummer}
+4951 ${online_links1}
+4951 ${online_links2}
+4951 ${online_links3}
