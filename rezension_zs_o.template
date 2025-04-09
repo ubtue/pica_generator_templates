@@ -21,4 +21,4 @@
 4950 ${online_links2}$3Volltext$4XX$534
 4950 ${online_links3}$3Volltext$4XX$534
 9998 ${reviewed_work_group_authors1}; ${reviewed_work_group_authors2}; ${reviewed_work_group_authors3}; ${reviewed_work_group_authors4}; ${reviewed_work_group_authors5}; ${reviewed_work_group_authors6}; ${reviewed_work_group_authors7}; ${reviewed_work_group_authors8}; ${reviewed_work_group_ISBN}; ${reviewed_work_group_title}; ${reviewed_work_group_erscheinungsjahr}; ${reviewed_work_group_IxTheo_Link}
-9999 ${zeitschrift_werk_group_title}; ${zeitschrift_werk_group_ISSN}; ${zeitschrift_werk_group_IxTheo_Link}; ${comment}
+9999 ${zeitschrift_werk_group_title}; ${zeitschrift_werk_group_ISSN}; ${zeitschrift_werk_group_IxTheo_Link}
