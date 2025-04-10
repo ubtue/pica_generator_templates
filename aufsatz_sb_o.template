@@ -15,6 +15,7 @@
 3010 ${authors7} 
 3010 ${authors8} 
 4000 ${title}$d${subtitle}
+4030 ${sammelband_werk_group_place_of_publication}
 4070 $j${sammelband_werk_group_erscheinungsjahr}$p${superior_pages}
 4950 ${online_links1}$3Volltext$4XX$534
 4950 ${online_links2}$3Volltext$4XX$534
