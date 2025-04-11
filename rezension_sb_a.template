@@ -5,7 +5,7 @@
 1505 $erda
 5056 1
 1131 !106186019!
-1100 ${sammelband_werk_group_erscheinungsjahr}
+1100 ${rezension_superior_anthology_group_erscheinungsjahr}
 1500 ${language}
 3000 ${authors1}
 3010 ${authors2} 
@@ -17,9 +17,9 @@
 3010 ${authors8} 
 4000 ${title}
 4030 ${rezension_superior_anthology_group_place_of_publication}
-4070 $j${sammelband_werk_group_erscheinungsjahr}$p${rezension_superior_anthology_group_seiten}
+4070 $j${rezension_superior_anthology_group_erscheinungsjahr}$p${rezension_superior_anthology_group_seiten}
 4951 ${online_links1}$3Volltext$4XX$534
 4951 ${online_links2}$3Volltext$4XX$534
 4951 ${online_links3}$3Volltext$4XX$534
 9998 ${reviewed_work_group_authors1}; ${reviewed_work_group_authors2}; ${reviewed_work_group_authors3}; ${reviewed_work_group_authors4}; ${reviewed_work_group_authors5}; ${reviewed_work_group_authors6}; ${reviewed_work_group_authors7}; ${reviewed_work_group_authors8}; ${reviewed_work_group_ISBN}; ${reviewed_work_group_title}; ${reviewed_work_group_erscheinungsjahr}; ${reviewed_work_group_IxTheo_Link}
-9999 ${rezension_superior_anthology_group_author1}; ${rezension_superior_anthology_group_author2}; ${rezension_superior_anthology_group_author3}; ${rezension_superior_anthology_group_author4}; ${rezension_superior_anthology_group_author5}; ${rezension_superior_anthology_group_author6}; ${rezension_superior_anthology_group_author7}; ${rezension_superior_anthology_group_author8}; ${rezension_superior_anthology_group_title}; ${rezension_superior_anthology_group_erscheinungsjahr}; ${rezension_superior_anthology_group_ISBN}; ${rezension_superior_anthology_group_IxTheo_link}
+9999 ${rezension_superior_anthology_group_author1}; ${rezension_superior_anthology_group_author2}; ${rezension_superior_anthology_group_author3}; ${rezension_superior_anthology_group_author4}; ${rezension_superior_anthology_group_author5}; ${rezension_superior_anthology_group_author6}; ${rezension_superior_anthology_group_author7}; ${rezension_superior_anthology_group_author8}; ${rezension_superior_anthology_group_title}; ${rezension_superior_anthology_group_ISBN}; ${rezension_superior_anthology_group_IxTheo_link}
